@@ -3,25 +3,36 @@
 # Opa! Muito prazer, me chamo Henrique Gabriel 👋
 *Pronomes: Ele/Dele | 📍 Brasil | 📧 E-mail: HenriqueGOP091306@gmail.com*
 
-Sou estudante do 2º ano de **Engenharia de Software (3º Semestre)** na **Unicesumar**, apaixonado por tecnologia e por resolver problemas complexos através de código limpo e arquiteturas bem estruturadas. 
+Sou estudante de **Engenharia de Software (4º Semestre)** na **Unicesumar**, apaixonado por tecnologia e pelo desafio de transformar problemas em soluções através do desenvolvimento de software.
 
-Atualmente, busco minha primeira oportunidade profissional na área de desenvolvimento, onde eu possa aplicar minha base acadêmica e continuar evoluindo tecnicamente.
+Atualmente, meus estudos estão voltados para **Java**, **Banco de Dados**, **Engenharia de Requisitos** e **Sistemas Operacionais**, buscando compreender não apenas como desenvolver aplicações, mas também como projetá-las, estruturá-las e mantê-las de forma eficiente.
 
-### 🎯 Foco e Interesses Atuais
-- **Desenvolvimento Front-end**: Criação de interfaces responsivas e focadas na experiência do usuário.
-- **Engenharia e Arquitetura**: Aplicação de **Análise e Projeto Orientado a Objetos**, Estrutura de Dados e padrões de projeto.
-- **Visão de Negócio**: Entendimento profundo de regras de negócio para garantir que a tecnologia construída realmente entregue valor (com base em meus estudos de Empreendedorismo e WorkInTech).
+Meu principal objetivo é me tornar um **Desenvolvedor Full Stack**, adquirindo uma base sólida tanto no desenvolvimento de interfaces quanto na construção de aplicações robustas no back-end.
 
 ---
 
-### 🚀 O que estou fazendo agora?
-- 🔭 Construindo meus primeiros projetos práticos em **Front-end** para fixar meus conhecimentos.
-- 🌱 Aprofundando meus estudos em **Estrutura de Dados** e **C++**.
-- 💡 Buscando sempre entender o "porquê" por trás do código, unindo programação com regras de negócios.
+## 🎯 Foco e Interesses Atuais
+
+- ☕ **Java**: Programação Orientada a Objetos, boas práticas e desenvolvimento de aplicações.
+- 🗄️ **Banco de Dados**: Modelagem, SQL, normalização e integração entre aplicações e bancos relacionais.
+- 📋 **Engenharia de Requisitos**: Levantamento, análise e documentação de requisitos para construir soluções alinhadas às necessidades do negócio.
+- 🖥️ **Sistemas Operacionais**: Entendimento do funcionamento do sistema, gerenciamento de processos, memória e recursos computacionais.
+- 🌐 **Desenvolvimento Full Stack**: Evoluindo continuamente para atuar tanto no Front-end quanto no Back-end.
 
 ---
 
-### 💻 Habilidades e Tecnologias (Em aprendizado)
+## 🚀 O que estou fazendo agora?
+
+- 📚 Estudando **Java** de forma aprofundada, com foco em Programação Orientada a Objetos e boas práticas de desenvolvimento.
+- 🗄️ Aprendendo modelagem de dados, SQL e integração com bancos de dados relacionais.
+- 💻 Desenvolvendo projetos para colocar em prática os conceitos aprendidos durante a graduação.
+- 📖 Aprofundando meus conhecimentos em Engenharia de Requisitos e Sistemas Operacionais para compreender melhor todo o ciclo de desenvolvimento de software.
+- 🚀 Construindo uma base sólida para atuar como Desenvolvedor Full Stack.
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -31,24 +42,34 @@ Atualmente, busco minha primeira oportunidade profissional na área de desenvolv
 
 ---
 
-### 📚 Background Acadêmico & Idiomas
-**🎓 Bacharelado em Engenharia de Software - Unicesumar** | *Cursando (3º Semestre)*
+## 📚 Formação Acadêmica
 
-**Disciplinas já consolidadas:**
-- Algoritmos e Lógica de Programação, Fundamentos e Arquiteturas de Computadores
-- Redes de Computadores, Engenharia de Software & Matemática Aplicada
-- **Extracurricular:** WorkInTech (Versionamento de Código com Git e Regras de Negócio)
+**🎓 Bacharelado em Engenharia de Software - Unicesumar**  
+*Cursando (4º Semestre)*
 
-**🗣️ Idiomas:**
+### Principais áreas estudadas
+
+- Algoritmos e Lógica de Programação
+- Programação em C
+- Programação Orientada a Objetos com Java
+- Banco de Dados
+- Engenharia de Requisitos
+- Sistemas Operacionais
+- Engenharia de Software
+- Redes de Computadores
+- Arquitetura e Organização de Computadores
+- Matemática Aplicada
+
+### 🗣️ Idiomas
+
 - Português (Nativo)
-- Inglês Intermediário/Avançado
+- Inglês Intermediário
 
 ---
 
-<br>
+## 📫 Vamos nos conectar?
 
-### 📫 Vamos nos conectar?
-Fique à vontade para me chamar no LinkedIn ou mandar um e-mail direto para batermos um papo. <br><br>
+Estou sempre aberto para trocar conhecimentos, conversar sobre tecnologia ou oportunidades na área de desenvolvimento.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/henrique-gabriel-de-oliveira-pereira-7b27953b2/" target="_blank">
