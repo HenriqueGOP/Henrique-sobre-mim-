@@ -1,83 +1,97 @@
-<img src="https://i.redd.it/9gus5pd7tl9z.gif" alt="Dark Souls Pixelart" style="width:auto; height:auto">
+<div align="center">
 
-# Opa! Muito prazer, me chamo Henrique Gabriel 👋
-*Pronomes: Ele/Dele | 📍 Brasil | 📧 E-mail: HenriqueGOP091306@gmail.com*
+<img src="https://i.redd.it/9gus5pd7tl9z.gif" alt="Dark Souls em pixel art" width="800">
 
-Sou estudante de **Engenharia de Software (4º Semestre)** na **Unicesumar**, apaixonado por tecnologia e pelo desafio de transformar problemas em soluções através do desenvolvimento de software.
+# Olá! Eu sou Henrique Gabriel 👋
 
-Atualmente, meus estudos estão voltados para **Java**, **Banco de Dados**, **Engenharia de Requisitos** e **Sistemas Operacionais**, buscando compreender não apenas como desenvolver aplicações, mas também como projetá-las, estruturá-las e mantê-las de forma eficiente.
+**Estudante de Engenharia de Software na UniCesumar | Java • C • SQL • Desenvolvimento Web**
 
-Meu principal objetivo é me tornar um **Desenvolvedor Full Stack**, adquirindo uma base sólida tanto no desenvolvimento de interfaces quanto na construção de aplicações robustas no back-end.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-gabriel-de-oliveira-pereira/)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HenriqueGOP06@gmail.com)
 
----
-
-## 🎯 Foco e Interesses Atuais
-
-- ☕ **Java**: Programação Orientada a Objetos, boas práticas e desenvolvimento de aplicações.
-- 🗄️ **Banco de Dados**: Modelagem, SQL, normalização e integração entre aplicações e bancos relacionais.
-- 📋 **Engenharia de Requisitos**: Levantamento, análise e documentação de requisitos para construir soluções alinhadas às necessidades do negócio.
-- 🖥️ **Sistemas Operacionais**: Entendimento do funcionamento do sistema, gerenciamento de processos, memória e recursos computacionais.
-- 🌐 **Desenvolvimento Full Stack**: Evoluindo continuamente para atuar tanto no Front-end quanto no Back-end.
-
----
-
-## 🚀 O que estou fazendo agora?
-
-- 📚 Estudando **Java** de forma aprofundada, com foco em Programação Orientada a Objetos e boas práticas de desenvolvimento.
-- 🗄️ Aprendendo modelagem de dados, SQL e integração com bancos de dados relacionais.
-- 💻 Desenvolvendo projetos para colocar em prática os conceitos aprendidos durante a graduação.
-- 📖 Aprofundando meus conhecimentos em Engenharia de Requisitos e Sistemas Operacionais para compreender melhor todo o ciclo de desenvolvimento de software.
-- 🚀 Construindo uma base sólida para atuar como Desenvolvedor Full Stack.
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
+## Sobre mim
+
+Sou estudante do **4º semestre de Engenharia de Software na UniCesumar**, com interesse em desenvolvimento de software e na criação de soluções para problemas reais.
+
+Atualmente, concentro meus estudos em **Java, Programação Orientada a Objetos, SQL, Banco de Dados, Engenharia de Requisitos e Sistemas Operacionais**. Também já estudei **C, JavaScript, HTML e CSS**, aplicando esses conhecimentos em exercícios e projetos acadêmicos.
+
+Profissionalmente, atuo com o **Sistema Eletrônico de Informações (SEI)** na Prefeitura de Maringá, participando de atividades de parametrização de processos e documentos, análise de solicitações, testes, validação de requisitos e apoio à implantação de alterações. Essa experiência tem ampliado minha compreensão sobre regras de negócio e o funcionamento de sistemas no dia a dia.
+
+Meu objetivo é continuar evoluindo em **desenvolvimento backend e frontend**, construindo uma base sólida em programação e engenharia de software.
+
+## Tecnologias e ferramentas
+
+### Linguagens e desenvolvimento web
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
+</p>
+
+### Versionamento
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+**Conceitos em estudo e prática:** lógica de programação, estruturas de dados, orientação a objetos, modelagem de dados, análise de requisitos e testes de software.
+
+**Explorando:** React, TypeScript e integração de aplicações web, ainda em fase de aprendizado.
+
+## Projetos
+
+### [Java — Estudos e exercícios](https://github.com/HenriqueGOP/Java)
+
+Repositório dedicado à evolução dos meus estudos em Java, com exercícios sobre **orientação a objetos, encapsulamento, vetores, ArrayList, manipulação de strings e métodos estáticos**. Inclui também um exemplo de consumo de API HTTP para consulta da cotação do dólar.
+
+**Tecnologias:** Java, Collections, HttpClient e Gson.
+
+### [EcoTech — Plataforma de denúncias ambientais](https://github.com/HenriqueGOP/AEP-2026)
+
+Projeto acadêmico de uma plataforma web para **registro e acompanhamento demonstrativo de denúncias ambientais**, com mapas interativos, formulário em etapas e armazenamento local de dados. É um protótipo frontend, sem backend de produção.
+
+**Tecnologias:** HTML, CSS, JavaScript, Bootstrap e Leaflet.
+
+### [BattleLink — Batalhas Pokémon](https://github.com/HenriqueGOP/BattleLink-Trabalho)
+
+Projeto acadêmico em equipe para explorar **comunicação entre processos e arquitetura cliente-servidor**. A aplicação utiliza TCP, WebSocket e uma interface web de batalhas por turnos. Tenho usado o projeto para aprender sobre integração de sistemas e compreender melhor tecnologias como React e TypeScript, com apoio de ferramentas de IA durante o desenvolvimento.
+
+**Tecnologias utilizadas no projeto:** Node.js, TypeScript, React, TCP e WebSocket.
+
+### [Aplicação de triagem em C](https://github.com/HenriqueGOP/AEP-2024)
+
+Projeto acadêmico de aplicação em terminal, com **menus, entrada de dados, validação de opções e histórico de triagens**.
+
+**Tecnologia:** C.
+
+## Formação acadêmica
+
+**Bacharelado em Engenharia de Software — UniCesumar**  
+4º semestre (em andamento)
+
+**Disciplinas já cursadas:** Algoritmos e Lógica de Programação, Linguagem e Técnicas de Programação, Estruturas de Dados, Programação Front End, Engenharia de Software, Análise e Projeto Orientado a Objetos, Redes de Computadores e Fundamentos e Arquitetura de Computadores.
+
+**Disciplinas atuais:** Programação Orientada a Objetos, Banco de Dados, Engenharia de Requisitos e Sistemas Operacionais.
+
+## Idiomas
+
+- **Português:** nativo.
+- **Inglês:** avançado.
+
+## Contato
+
+- **LinkedIn:** [henrique-gabriel-de-oliveira-pereira](https://www.linkedin.com/in/henrique-gabriel-de-oliveira-pereira/)
+- **E-mail:** [HenriqueGOP06@gmail.com](mailto:HenriqueGOP06@gmail.com)
+
 ---
 
-## 📚 Formação Acadêmica
-
-**🎓 Bacharelado em Engenharia de Software - Unicesumar**  
-*Cursando (4º Semestre)*
-
-### Principais áreas estudadas
-
-- Algoritmos e Lógica de Programação
-- Programação em C
-- Programação Orientada a Objetos com Java
-- Banco de Dados
-- Engenharia de Requisitos
-- Sistemas Operacionais
-- Engenharia de Software
-- Redes de Computadores
-- Arquitetura e Organização de Computadores
-- Matemática Aplicada
-
-### 🗣️ Idiomas
-
-- Português (Nativo)
-- Inglês Intermediário
-
----
-
-## 📫 Vamos nos conectar?
-
-Estou sempre aberto para trocar conhecimentos, conversar sobre tecnologia ou oportunidades na área de desenvolvimento.
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/henrique-gabriel-de-oliveira-pereira-7b27953b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:HenriqueGOP091306@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<div align="center">
+  <sub>Aprendendo, desenvolvendo e compartilhando minha evolução na programação.</sub>
 </div>
